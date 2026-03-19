@@ -28,12 +28,6 @@
 
 ### Evidence (public links)
 
-- [SAFE-AUCA use case template](https://raw.githubusercontent.com/safe-agentic-framework/safe-agentic-use-cases/main/templates/use-case-template.md)
-- [SAFE-UC-0023 write-up plan (issue #21)](https://github.com/safe-agentic-framework/safe-agentic-use-cases/issues/21)
-- [SAFE-UC-0023 seed README](https://github.com/safe-agentic-framework/safe-agentic-use-cases/blob/main/use-cases/SAFE-UC-0023/README.md)
-- [SAFE-UC-0018 reference guide](https://raw.githubusercontent.com/safe-agentic-framework/safe-agentic-use-cases/main/use-cases/SAFE-UC-0018/README.md)
-- [SAFE-UC-0032 reference guide](https://raw.githubusercontent.com/safe-agentic-framework/safe-agentic-use-cases/main/use-cases/SAFE-UC-0032/README.md)
-- [SAFE-UC-0033 reference guide](https://raw.githubusercontent.com/safe-agentic-framework/safe-agentic-use-cases/main/use-cases/SAFE-UC-0033/README.md)
 - [AWS CloudWatch Investigations](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Investigations.html)
 - [AWS CloudWatch Investigations security and access](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Investigations-Security.html)
 - [AWS CloudWatch cross-account observability](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Unified-Cross-Account.html)
@@ -78,8 +72,6 @@
 ---
 
 ## Minimum viable write-up (Seed → Draft fast path)
-
-This draft completes the template’s seed→draft path and adds concrete governance, validation, and review content for a cloud operations assistant. Before `published` status, the highest-value next steps are:
 
 - validate the tool and approval model against at least one concrete implementation in production or pre-production
 - attach repeatable test fixtures and evidence artifacts for the recommended safety regressions
