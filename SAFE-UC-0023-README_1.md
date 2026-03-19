@@ -562,16 +562,6 @@ The workflow has several trust boundaries that reviewers should model explicitly
 
 ---
 
-## Contributors
-
-| Role | Contributor |
-|---|---|
-| Draft author | Prepared draft for review |
-| Domain reviewers | TBD |
-| Additional contributors | TBD |
-
----
-
 ## Version History
 
 | Version | Date | Changes | Author |
