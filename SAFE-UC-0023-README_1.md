@@ -576,4 +576,4 @@ The workflow has several trust boundaries that reviewers should model explicitly
 
 | Version | Date | Changes | Author |
 |---|---|---|---|
-| 1.0 | 2026-03-18 | Initial SAFE-AUCA draft for `SAFE-UC-0023`, aligned to the template, issue plan, and public cloud / SAFE-MCP evidence | Prepared draft |
+| 1.0 | 2026-03-18 | Initial SAFE-AUCA draft for `SAFE-UC-0023`, aligned to the template, issue plan, and public cloud / SAFE-MCP evidence | Arun Pandiyan Perumal |
