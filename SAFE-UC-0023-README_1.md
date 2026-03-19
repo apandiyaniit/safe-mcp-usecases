@@ -562,6 +562,16 @@ The workflow has several trust boundaries that reviewers should model explicitly
 
 ---
 
+## Contributors
+
+| Role | Contributor |
+|---|---|
+| Draft author | Arun Pandiyan Perumal |
+| Domain reviewers | TBD |
+| Additional contributors | TBD |
+
+---
+
 ## Version History
 
 | Version | Date | Changes | Author |
