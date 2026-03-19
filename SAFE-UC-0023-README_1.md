@@ -1,6 +1,6 @@
 # Cloud ops troubleshooting assistant — incident triage, telemetry correlation, and bounded remediation
 
-> **SAFE-AUCA industry reference guide (draft)**
+> **SAFE-AUCA industry reference guide**
 >
 > This use case describes a real-world workflow where SRE, platform engineering, NOC, and incident-response teams use an agentic assistant to investigate cloud and Kubernetes production issues by correlating metrics, logs, traces, change events, infrastructure state, and recent deployments across multiple tools.
 >
